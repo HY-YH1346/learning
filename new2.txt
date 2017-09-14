@@ -1,6 +1,2 @@
 Git is a good version control system.
-<<<<<<< HEAD
-control sys.
-=======
-control sysm.
->>>>>>> feature1
+control system.
