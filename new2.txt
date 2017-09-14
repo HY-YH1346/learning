@@ -1,3 +1,2 @@
 Git is a good version control system.
-Git is a free and useful software.
-it's so great.
+control system.
