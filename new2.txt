@@ -1,2 +1,2 @@
 Git is a good version control system.
-control system.
+it is a good control system.
